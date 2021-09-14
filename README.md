@@ -25,17 +25,12 @@ N/A
 
 ## Authors
 
-👤 **Author1**
+👤 **Hope**
 
 - GitHub: [@Hope1226](https://github.com/Hope1226)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [Умид Устабаев](https://www.linkedin.com/in/%D1%83%D0%BC%D0%B8%D0%B4-%D1%83%D1%81%D1%82%D0%B0%D0%B1%D0%B0%D0%B5%D0%B2-03b92b11a/)
 
 ## 🤝 Contributing
 
